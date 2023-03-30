@@ -2,9 +2,9 @@
 //문제: 최대 숫자 찾기
 
 #include <stdio.h>
-
+  
 int maxnum(int getarr[], int n)            //최대값 반환하는 함수
-{
+{   
 	int max = getarr[0];                   //배열의 첫번째 원소로 초기화
 	int i;
 	for (i = 1; i < n; i++)               //if문 반복 배열 크기까지
