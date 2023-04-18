@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "algoritihm_2023_04_18", "algoritihm_2023_04_18\algoritihm_2023_04_18.vcxproj", "{B00A71C0-C9E8-486A-BD7A-44E833147D1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B00A71C0-C9E8-486A-BD7A-44E833147D1A}.Debug|x64.ActiveCfg = Debug|x64
+		{B00A71C0-C9E8-486A-BD7A-44E833147D1A}.Debug|x64.Build.0 = Debug|x64
+		{B00A71C0-C9E8-486A-BD7A-44E833147D1A}.Debug|x86.ActiveCfg = Debug|Win32
+		{B00A71C0-C9E8-486A-BD7A-44E833147D1A}.Debug|x86.Build.0 = Debug|Win32
+		{B00A71C0-C9E8-486A-BD7A-44E833147D1A}.Release|x64.ActiveCfg = Release|x64
+		{B00A71C0-C9E8-486A-BD7A-44E833147D1A}.Release|x64.Build.0 = Release|x64
+		{B00A71C0-C9E8-486A-BD7A-44E833147D1A}.Release|x86.ActiveCfg = Release|Win32
+		{B00A71C0-C9E8-486A-BD7A-44E833147D1A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D0F3332-3EC9-43A1-A691-FAD8BB609590}
+	EndGlobalSection
+EndGlobal
