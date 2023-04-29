@@ -2,10 +2,10 @@
 
 int main(void)
 {
-    printf("毵堩姼鞐愳劀 靷槵 頀堧\n");
+    printf("付飘俊辑 荤棵 前格\n");
     printf("===============\n");
-    printf("靷臣, 鞖办湢, 牍礬n");
+    printf("荤苞, 快蜡, 户\n");
     printf("===============\n");
 
     return 0;
-}
+} 
